@@ -4,7 +4,7 @@ EE Decimal to Percentage
 ExpressionEngine plugin that converts decimals to percentages and vice-versa.
 
 ### Installation & Usage
-Place _decimal_to_percentage_ in your _system/expressionengine/third_party_ directory
+Place *decimal_to_percentage* in your *system/expressionengine/third_party* directory
 
 ```
 {!-- outputs 94.1% --}
