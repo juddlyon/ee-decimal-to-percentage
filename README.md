@@ -1,10 +1,10 @@
 EE Decimal to Percentage
 ========================
 
-ExpressionEngine plugin that converts decimals to percentages and vice-versa.
+ExpressionEngine plugin that converts decimals to percentages and vice-versa. Useful for sports standings and whatnot.
 
 ### Installation & Usage
-Place *decimal_to_percentage* in your *system/expressionengine/third_party* directory
+Place *decimal_to_percentage* in your *system/expressionengine/third_party* directory.
 
 ```
 {!-- outputs 94.1% --}
